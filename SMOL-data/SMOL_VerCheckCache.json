@@ -1,0 +1,125 @@
+{
+  "onlineVersions": {
+    "ai_flag_tool": {
+      "masterVersionFile": "https://raw.githubusercontent.com/isturdy/ai-flag-tool/master/mod/ai_flag_tool.version",
+      "modThreadId": "15122",
+      "modVersion": {
+        "major": "0",
+        "minor": "3",
+        "patch": "2"
+      },
+      "directDownloadURL": null
+    },
+    "bountiesexpanded": {
+      "masterVersionFile": "https://raw.githubusercontent.com/Schaf-Unschaf/BountiesExpanded/master/bounties_expanded.version",
+      "modThreadId": null,
+      "modVersion": {
+        "major": "0",
+        "minor": "4",
+        "patch": "2"
+      },
+      "directDownloadURL": null
+    },
+    "lw_console": {
+      "masterVersionFile": "https://raw.githubusercontent.com/LazyWizard/console-commands/master/src/main/mod/console.version",
+      "modThreadId": "4106",
+      "modVersion": {
+        "major": "2021",
+        "minor": "4",
+        "patch": "06"
+      },
+      "directDownloadURL": null
+    },
+    "shaderLib": {
+      "masterVersionFile": "https://www.sc2mafia.com/Starsector/version/graphicsLib.version",
+      "modThreadId": "10982",
+      "modVersion": {
+        "major": "1",
+        "minor": "6",
+        "patch": "1"
+      },
+      "directDownloadURL": null
+    },
+    "IndEvo": {
+      "masterVersionFile": "https://raw.githubusercontent.com/SirHartley/Industrial_Evolution/master/IndEvo.version",
+      "modThreadId": "18011",
+      "modVersion": {
+        "major": "2",
+        "minor": "2",
+        "patch": "h"
+      },
+      "directDownloadURL": null
+    },
+    "timid_xiv": {
+      "masterVersionFile": "https://raw.githubusercontent.com/TechpriestEnginseer/solid-winner4/master/timid_xiv.version",
+      "modThreadId": "18297",
+      "modVersion": {
+        "major": "1",
+        "minor": "1",
+        "patch": "0"
+      },
+      "directDownloadURL": "https://github.com/TechpriestEnginseer/solid-winner4/releases/download/1.10/Iron.Shell.zip"
+    },
+    "lw_lazylib": {
+      "masterVersionFile": "https://raw.githubusercontent.com/LazyWizard/lazylib/master/mod/lazylib.version",
+      "modThreadId": "5444",
+      "modVersion": {
+        "major": "2",
+        "minor": "7",
+        "patch": "b"
+      },
+      "directDownloadURL": null
+    },
+    "mag_protect": {
+      "masterVersionFile": "https://gist.githubusercontent.com/HarmfulMechanic/1fa56c2e8ca8570981340ecde0447c3a/raw/7f3862ff6427132c1b051ff2ba6a5c1fc528c94f/magellan_protectorate.version",
+      "modThreadId": "21733",
+      "modVersion": {
+        "major": "1",
+        "minor": "3",
+        "patch": "a"
+      },
+      "directDownloadURL": null
+    },
+    "wisp_NeutrinoDetectorMkII": {
+      "masterVersionFile": "https://raw.githubusercontent.com/davidwhitman/NeutrinoDetectorMkII/master/wisp_NeutrinoDetectorMkII.version",
+      "modThreadId": "21140",
+      "modVersion": {
+        "major": "1",
+        "minor": "2",
+        "patch": "0"
+      },
+      "directDownloadURL": null
+    },
+    "swp": {
+      "masterVersionFile": "https://www.sc2mafia.com/Starsector/version/swp.version",
+      "modThreadId": "11018",
+      "modVersion": {
+        "major": "1",
+        "minor": "13",
+        "patch": "0"
+      },
+      "directDownloadURL": null
+    },
+    "transpoffder": {
+      "masterVersionFile": "https://raw.githubusercontent.com/jaghaimo/transpoffder/master/assets/transpoffder.version",
+      "modThreadId": "23545",
+      "modVersion": {
+        "major": "1",
+        "minor": "2",
+        "patch": "1"
+      },
+      "directDownloadURL": "https://github.com/jaghaimo/transpoffder/releases/download/1.2.1/transpoffder-1.2.1.zip"
+    },
+    "vayrasector": {
+      "masterVersionFile": "https://raw.githubusercontent.com/Vayraa/vayrasector/master/vayrasector.version",
+      "modThreadId": "16058",
+      "modVersion": {
+        "major": "3",
+        "minor": "2",
+        "patch": "1"
+      },
+      "directDownloadURL": null
+    }
+  },
+  "lastCheckTimestamp": 1642494703708
+}

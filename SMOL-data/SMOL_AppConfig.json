@@ -1,0 +1,50 @@
+{
+  "userProfile": {
+    "id": 0,
+    "username": "default",
+    "activeModProfileId": "86919359-b279-4127-a1a8-9b23d9ddb643",
+    "versionCheckerIntervalMillis": 300000,
+    "modProfiles": [
+      {
+        "id": "86919359-b279-4127-a1a8-9b23d9ddb643",
+        "name": "default",
+        "description": "Default profile",
+        "sortOrder": 0,
+        "enabledModVariants": [
+          {
+            "modId": "timid_xiv",
+            "smolVariantId": "timid_-1.1-515862396",
+            "version": {
+              "raw": "1.1",
+              "major": "1",
+              "minor": "1",
+              "patch": "0",
+              "build": "0"
+            }
+          },
+          {
+            "modId": "transpoffder",
+            "smolVariantId": "transp-1.2.1-1771506129",
+            "version": {
+              "raw": "1.2.1",
+              "major": "1",
+              "minor": "2",
+              "patch": "1",
+              "build": "0"
+            }
+          }
+        ]
+      }
+    ],
+    "profileVersion": 0,
+    "theme": "kemet",
+    "favoriteMods": [],
+    "modGridPrefs": {
+      "sortField": null,
+      "isSortDescending": true
+    }
+  },
+  "gamePath": "C:\\Program Files (x86)\\Fractal Softworks\\Starsector",
+  "archivesPath": "F:\\Code\\Starsector\\SMOL_Dist\\SMOL_Dist\\SMOL-data\\archives",
+  "stagingPath": "F:\\Code\\Starsector\\SMOL_Dist\\SMOL_Dist\\SMOL-data\\staging"
+}
