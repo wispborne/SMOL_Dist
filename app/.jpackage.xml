@@ -1,4 +1,7 @@
 <?xml version="1.0" ?>
-<jpackage-state version="17" platform="windows">
+<jpackage-state version="19.0.2" platform="windows">
   <app-version>1.0.0</app-version>
-  <main-launcher>SMOL</main-launcher></jpackage-state>
+  <main-launcher>SMOL</main-launcher>
+  <main-class>smol.app.MainKt</main-class>
+  <signed>false</signed>
+  <app-store>false</app-store></jpackage-state>
