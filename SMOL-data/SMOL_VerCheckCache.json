@@ -1,0 +1,1611 @@
+{
+  "onlineVersions": {
+    "$$$_trailermoments": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://bitbucket.org/niatahl/trailer-moments/downloads/trailermoments.version",
+        "modNexusId": null,
+        "modThreadId": "14047",
+        "modVersion": {
+          "major": "1",
+          "minor": "1",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "pantera_ANewLevel25": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Crazymoniker/Starsector-A-New-Level/main/ANewLevel25.version",
+        "modNexusId": null,
+        "modThreadId": "20535",
+        "modVersion": {
+          "major": "3",
+          "minor": "1",
+          "patch": null
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "pantera_ANewLevel20": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Crazymoniker/Starsector-A-New-Level/main/ANewLevel20.version",
+        "modNexusId": null,
+        "modThreadId": "20535",
+        "modVersion": {
+          "major": "3",
+          "minor": "1",
+          "patch": null
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "pantera_ANewLevel40": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Crazymoniker/Starsector-A-New-Level/main/ANewLevel40.version",
+        "modNexusId": null,
+        "modThreadId": "20535",
+        "modVersion": {
+          "major": "3",
+          "minor": "1",
+          "patch": null
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "pantera_ANewLevel40R": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Crazymoniker/Starsector-A-New-Level/main/ANewLevel40R.version",
+        "modNexusId": null,
+        "modThreadId": "20535",
+        "modVersion": {
+          "major": "3",
+          "minor": "1",
+          "patch": null
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "adversary": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Tranquiliti/Adversary/main/adversary.version",
+        "modNexusId": null,
+        "modThreadId": "25821",
+        "modVersion": {
+          "major": "4",
+          "minor": "4",
+          "patch": "0"
+        },
+        "directDownloadURL": "https://github.com/Tranquiliti/Adversary/releases/download/v4.4.0/Adversary-v4.4.0.zip",
+        "changelogURL": "https://raw.githubusercontent.com/Tranquiliti/Adversary/main/changelog.txt"
+      }
+    },
+    "ApproLight": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://bitbucket.org/Originem/truths-mod-version/downloads/ApproLight.version",
+        "modNexusId": null,
+        "modThreadId": "9688",
+        "modVersion": {
+          "major": "0",
+          "minor": "8",
+          "patch": "5-RC3"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "Arkships": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Lukas22041/Arkship/main/Arkships.version",
+        "modNexusId": null,
+        "modThreadId": null,
+        "modVersion": {
+          "major": "1",
+          "minor": "4",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "armaa": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/gomarz/ss-armaa/master/armaa.version",
+        "modNexusId": null,
+        "modThreadId": "18751",
+        "modVersion": {
+          "major": "2",
+          "minor": "2",
+          "patch": "4"
+        },
+        "directDownloadURL": "https://github.com/gomarz/SS-armaa/archive/refs/tags/v2.2.4.zip",
+        "changelogURL": null
+      }
+    },
+    "lw_autosave": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/LazyWizard/autosave/master/mod/autosave.version",
+        "modNexusId": null,
+        "modThreadId": "9748",
+        "modVersion": {
+          "major": "1",
+          "minor": "2",
+          "patch": "b"
+        },
+        "directDownloadURL": null,
+        "changelogURL": "https://raw.githubusercontent.com/LazyWizard/autosave/master/mod/changelog.txt"
+      }
+    },
+    "timid_admins": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/TechpriestEnginseer/solid-winner2/master/moreadmins.version",
+        "modNexusId": null,
+        "modThreadId": "17103",
+        "modVersion": {
+          "major": "1",
+          "minor": "8",
+          "patch": "6"
+        },
+        "directDownloadURL": "https://github.com/TechpriestEnginseer/solid-winner2/releases/download/1.86/Better.Colonies.zip",
+        "changelogURL": null
+      }
+    },
+    "blackrock_driveyards": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://bitbucket.org/thegneissplace/brdy/downloads/cyc_brdy.version",
+        "modNexusId": "21",
+        "modThreadId": "4018",
+        "modVersion": {
+          "major": "0",
+          "minor": "9",
+          "patch": "5a"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "bountiesexpanded": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Schaf-Unschaf/BountiesExpanded/master/bounties_expanded.version",
+        "modNexusId": null,
+        "modThreadId": null,
+        "modVersion": {
+          "major": "0",
+          "minor": "4",
+          "patch": "2"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "HMI_brighton": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/8x90v98ez87479m/hmi_brighton.version?dl\u003d1",
+        "modNexusId": null,
+        "modThreadId": "13236",
+        "modVersion": {
+          "major": "0",
+          "minor": "0",
+          "patch": "2d,"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "CaptainsLog": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/stormbringer951/CaptainsLog/master/CaptainsLog.version",
+        "modNexusId": null,
+        "modThreadId": "20161",
+        "modVersion": {
+          "major": "0",
+          "minor": "2",
+          "patch": "0"
+        },
+        "directDownloadURL": "https://github.com/stormbringer951/CaptainsLog/releases/download/0.2.0/CaptainsLog-0.2.0.zip",
+        "changelogURL": "https://raw.githubusercontent.com/stormbringer951/CaptainsLog/master/assets/changelog.txt"
+      }
+    },
+    "CFT": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/09necch57zitrb5/CFT.version?dl\u003d1",
+        "modNexusId": null,
+        "modThreadId": "24433",
+        "modVersion": {
+          "major": "1",
+          "minor": "7",
+          "patch": "0"
+        },
+        "directDownloadURL": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1kf_U1hKWCJ_M03pfm9ti4r15Ox1gEOhA",
+        "changelogURL": null
+      }
+    },
+    "clearCommands": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/SirHartley/ClearCommands/main/ClearCommands.version",
+        "modNexusId": null,
+        "modThreadId": "19210",
+        "modVersion": {
+          "major": "1",
+          "minor": "0",
+          "patch": "e"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "chatter": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Histidine91/SS-CombatChatter/release/chatter.version",
+        "modNexusId": "29",
+        "modThreadId": "10399",
+        "modVersion": {
+          "major": "1",
+          "minor": "13",
+          "patch": "2"
+        },
+        "directDownloadURL": "https://github.com/Histidine91/SS-CombatChatter/releases/download/v1.13.2/CombatChatter_1.13.2.zip",
+        "changelogURL": "https://raw.githubusercontent.com/Histidine91/SS-CombatChatter/release/changelog.txt"
+      }
+    },
+    "lw_radar": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/LazyWizard/combat-radar/master/mod/radar.version",
+        "modNexusId": null,
+        "modThreadId": "7526",
+        "modVersion": {
+          "major": "3",
+          "minor": "0",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": "https://raw.githubusercontent.com/LazyWizard/combat-radar/master/mod/changelog.txt"
+      }
+    },
+    "timid_commissioned_hull_mods": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/TechpriestEnginseer/solid-winner/master/commissionedcrews.version",
+        "modNexusId": null,
+        "modThreadId": "16677",
+        "modVersion": {
+          "major": "1",
+          "minor": "9",
+          "patch": "99999ggg,"
+        },
+        "directDownloadURL": "https://github.com/TechpriestEnginseer/solid-winner/releases/download/1.999999ggg/Commissioned.Crews.zip",
+        "changelogURL": null
+      }
+    },
+    "su_Concord": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Sutopia/Starsector-Concord/main/su_modConcord.version",
+        "modNexusId": null,
+        "modThreadId": "23935",
+        "modVersion": {
+          "major": "3",
+          "minor": "5",
+          "patch": "2g"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "lw_console": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/LazyWizard/console-commands/master/src/main/mod/console.version",
+        "modNexusId": null,
+        "modThreadId": "4106",
+        "modVersion": {
+          "major": "2023",
+          "minor": "5",
+          "patch": "05"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "timid_cum": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/TechpriestEnginseer/solid-winner6/master/timid_cum.version",
+        "modNexusId": null,
+        "modThreadId": "24771",
+        "modVersion": {
+          "major": "1",
+          "minor": "1",
+          "patch": "2"
+        },
+        "directDownloadURL": "https://github.com/TechpriestEnginseer/solid-winner6/releases/download/1.12/Content.Unlocking.Missions.zip",
+        "changelogURL": null
+      }
+    },
+    "istl_dassaultmikoyan": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": null,
+        "modNexusId": null,
+        "modThreadId": null,
+        "modVersion": null,
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "hm_flagpack": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": null,
+        "modNexusId": null,
+        "modThreadId": null,
+        "modVersion": null,
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "DetailedCombatResults": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/DetailedCombatResults.version",
+        "modNexusId": null,
+        "modThreadId": "11551",
+        "modVersion": {
+          "major": "5",
+          "minor": "3",
+          "patch": "3"
+        },
+        "directDownloadURL": "https://bitbucket.org/NickWWest/starsectorcombatanalytics/downloads/DetailedCombatResults.5.3.3.zip",
+        "changelogURL": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/DetailedCombatResults.changelog"
+      }
+    },
+    "diableavionics": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/n7bliv66bn3zke0/DA.version?dl\u003d1",
+        "modNexusId": "15",
+        "modThreadId": "10046",
+        "modVersion": {
+          "major": "2",
+          "minor": "7",
+          "patch": "0rc3"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "DisassembleReassemble": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://bitbucket.org/AxleMC131/checker/downloads/DisassembleReassemble.version",
+        "modNexusId": null,
+        "modThreadId": "12360",
+        "modVersion": {
+          "major": "1",
+          "minor": "6",
+          "patch": "9"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "edshipyard": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/edshipyard.version",
+        "modNexusId": null,
+        "modThreadId": "24976",
+        "modVersion": {
+          "major": "2",
+          "minor": "6",
+          "patch": "1"
+        },
+        "directDownloadURL": "https://bitbucket.org/NickWWest/edshipyard/downloads/EDShipyard.2.6.1.zip",
+        "changelogURL": "https://raw.githubusercontent.com/Nickwwest/StarSectorMods/main/edshipyard.changelog"
+      }
+    },
+    "pt_exiledSpace": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/PureTilt/ExiledSpace/master/ExiledSpace.version",
+        "modNexusId": null,
+        "modThreadId": "18994",
+        "modVersion": {
+          "major": "0",
+          "minor": "1",
+          "patch": "4"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "exoticatechnologies": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/scardwell15/exoticatechnologies/main/exoticatechnologies.version",
+        "modNexusId": null,
+        "modThreadId": "24660",
+        "modVersion": {
+          "major": "1",
+          "minor": "6",
+          "patch": "1"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "exploration": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/MilanTodorovic/Explore_the_galaxy/main/exploration.version",
+        "modNexusId": null,
+        "modThreadId": "21800",
+        "modVersion": {
+          "major": "1",
+          "minor": "2",
+          "patch": "3"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "fleethistory": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/briansd9/starsector-fleethistory/master/fleethistory.version",
+        "modNexusId": null,
+        "modThreadId": "21929",
+        "modVersion": {
+          "major": "1",
+          "minor": "0",
+          "patch": "10"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "fluffships": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://github.com/MrFluffster/fluffShipPack/raw/master/fluffshippack.version",
+        "modNexusId": null,
+        "modThreadId": "17566",
+        "modVersion": {
+          "major": "0",
+          "minor": "2",
+          "patch": "3"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "sun_flux_reticle": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/NateNBJ/FluxReticle/master/sun_fr.version",
+        "modNexusId": null,
+        "modThreadId": "18166",
+        "modVersion": {
+          "major": "1",
+          "minor": "2",
+          "patch": "1"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "foundation": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://bitbucket.org/Originem/truths-mod-version/downloads/FOB.version",
+        "modNexusId": null,
+        "modThreadId": "13213",
+        "modVersion": {
+          "major": "0",
+          "minor": "2",
+          "patch": "3-RC1"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "FPE": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/6vg0ahqolsetnpd/fpe.version?dl\u003d1",
+        "modNexusId": null,
+        "modThreadId": "13236",
+        "modVersion": {
+          "major": "1",
+          "minor": "1",
+          "patch": "1"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "sun_fuel_siphoning": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/NateNBJ/FuelSiphoning/master/sun_fs.version",
+        "modNexusId": null,
+        "modThreadId": "15272",
+        "modVersion": {
+          "major": "1",
+          "minor": "3",
+          "patch": "0"
+        },
+        "directDownloadURL": "https://github.com/NateNBJ/FuelSiphoning/releases/latest/download/Fuel.Siphoning.zip",
+        "changelogURL": null
+      }
+    },
+    "shaderLib": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.sc2mafia.com/Starsector/version/graphicsLib.version",
+        "modNexusId": null,
+        "modThreadId": "10982",
+        "modVersion": {
+          "major": "1",
+          "minor": "7",
+          "patch": "0"
+        },
+        "directDownloadURL": "https://bitbucket.org/DarkRevenant/graphicslib/downloads/GraphicsLib_1.7.0.7z",
+        "changelogURL": null
+      }
+    },
+    "HMI": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/k17ujd6urzoz686/hmi.version?dl\u003d1",
+        "modNexusId": null,
+        "modThreadId": "13236",
+        "modVersion": {
+          "major": "0",
+          "minor": "3",
+          "patch": "5i,"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "HMI_SV": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/l027szf039ctul7/hmi_sv.version?dl\u003d1",
+        "modNexusId": null,
+        "modThreadId": "13236",
+        "modVersion": {
+          "major": "0",
+          "minor": "0",
+          "patch": "4b,"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "hcok": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/6xq9pyndomhe40p/hcok.version?dl\u003d1",
+        "modNexusId": null,
+        "modThreadId": "23050",
+        "modVersion": {
+          "major": "0",
+          "minor": "0",
+          "patch": "4d,"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "hostileIntercept": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/SafariJohn/Misc-Starsector-Mods/main/HostileIntercept.version",
+        "modNexusId": null,
+        "modThreadId": "18909",
+        "modVersion": {
+          "major": "1",
+          "minor": "3",
+          "patch": "3"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "sun_hyperdrive": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/NateNBJ/Hyperdrive/master/sun_hd.version",
+        "modNexusId": null,
+        "modThreadId": "17157",
+        "modVersion": {
+          "major": "2",
+          "minor": "4",
+          "patch": "0"
+        },
+        "directDownloadURL": "https://github.com/NateNBJ/Hyperdrive/releases/latest/download/Hyperdrive.zip",
+        "changelogURL": null
+      }
+    },
+    "IndEvo": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/SirHartley/Industrial_Evolution/master/IndEvo.version",
+        "modNexusId": null,
+        "modThreadId": "18011",
+        "modVersion": {
+          "major": "3",
+          "minor": "2",
+          "patch": "a"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "Imperium": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.sc2mafia.com/Starsector/version/Imperium.version",
+        "modNexusId": null,
+        "modThreadId": "8007",
+        "modVersion": {
+          "major": "2",
+          "minor": "6",
+          "patch": "2e"
+        },
+        "directDownloadURL": "https://bitbucket.org/DarkRevenant/interstellar-imperium/downloads/Interstellar_Imperium_2.6.2e.7z",
+        "changelogURL": null
+      }
+    },
+    "timid_xiv": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/TechpriestEnginseer/solid-winner4/master/timid_xiv.version",
+        "modNexusId": null,
+        "modThreadId": "18297",
+        "modVersion": {
+          "major": "1",
+          "minor": "18",
+          "patch": "1"
+        },
+        "directDownloadURL": "https://github.com/TechpriestEnginseer/solid-winner4/releases/download/1.181/Iron.Shell.zip",
+        "changelogURL": null
+      }
+    },
+    "kingdomofterra": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Sinosauropteryx/KingdomOfTerra/master/kingdom_of_terra.version",
+        "modNexusId": null,
+        "modThreadId": "16902",
+        "modVersion": {
+          "major": "0",
+          "minor": "13",
+          "patch": "1"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "lw_lazylib": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/LazyWizard/lazylib/master/mod/lazylib.version",
+        "modNexusId": "1",
+        "modThreadId": "5444",
+        "modVersion": {
+          "major": "2",
+          "minor": "8",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": "https://raw.githubusercontent.com/LazyWizard/lazylib/master/mod/changelog.txt"
+      }
+    },
+    "leadingPip": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.sc2mafia.com/Starsector/version/leadingPip.version",
+        "modNexusId": null,
+        "modThreadId": "7921",
+        "modVersion": {
+          "major": "1",
+          "minor": "9",
+          "patch": "3"
+        },
+        "directDownloadURL": "https://bitbucket.org/DarkRevenant/leading-pip/downloads/Leading_Pip_1.9.3.7z",
+        "changelogURL": null
+      }
+    },
+    "ArkLeg": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/fgid23rc46ithwa/legacyofarkgneisis.version?dl\u003d1",
+        "modNexusId": null,
+        "modThreadId": "13667",
+        "modVersion": {
+          "major": "1",
+          "minor": "9",
+          "patch": "11"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "$$$_lightshow": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/xk83hs28ltif580/LS.version?dl\u003d1",
+        "modNexusId": null,
+        "modThreadId": "11528",
+        "modVersion": {
+          "major": "1",
+          "minor": "4",
+          "patch": "1"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "lockedAndLoaded": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/p7s2fscgzm33al5/lockedandloaded.version?dl\u003d1",
+        "modNexusId": "10",
+        "modThreadId": "23129",
+        "modVersion": {
+          "major": "0",
+          "minor": "12",
+          "patch": "1"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "logisticsNotifications": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/SafariJohn/Misc-Starsector-Mods/main/logisticsNotify.version",
+        "modNexusId": null,
+        "modThreadId": "17379",
+        "modVersion": {
+          "major": "1",
+          "minor": "4",
+          "patch": "5"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "lunalib": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Lukas22041/LunaLib/main/LunaLib.version",
+        "modNexusId": null,
+        "modThreadId": "25658",
+        "modVersion": {
+          "major": "1",
+          "minor": "7",
+          "patch": "8"
+        },
+        "directDownloadURL": "https://github.com/Lukas22041/LunaLib/releases/latest/download/LunaLib.zip",
+        "changelogURL": "https://raw.githubusercontent.com/Lukas22041/LunaLib/main/changelog.txt"
+      }
+    },
+    "mag_protect": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": null,
+        "modNexusId": null,
+        "modThreadId": null,
+        "modVersion": null,
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "MagicLib": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/MagicLibStarsector/MagicLib/master/magiclib.version",
+        "modNexusId": null,
+        "modThreadId": "25868",
+        "modVersion": {
+          "major": "1",
+          "minor": "1",
+          "patch": "3-rc01"
+        },
+        "directDownloadURL": "https://github.com/MagicLibStarsector/MagicLib/releases/download/1.1.3-rc01/MagicLib-1.1.3-rc01.zip",
+        "changelogURL": "https://raw.githubusercontent.com/MagicLibStarsector/MagicLib/master/CHANGELOGS.md"
+      }
+    },
+    "Mayasuran Navy": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/KnightShii/Starsector/master/MayasuranNavy.version",
+        "modNexusId": null,
+        "modThreadId": "13239",
+        "modVersion": {
+          "major": "10",
+          "minor": "0",
+          "patch": "0 RC2"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "molecularreplicator": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/SteelSirokos/Molecular-Replicator/main/molecular-replicator.version",
+        "modNexusId": null,
+        "modThreadId": "25578",
+        "modVersion": {
+          "major": "0",
+          "minor": "1",
+          "patch": "5"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "ness_saw": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/t2z1svpx6nl72gj/nes.version?dl\u003d1",
+        "modNexusId": null,
+        "modThreadId": "22827",
+        "modVersion": {
+          "major": "1",
+          "minor": "9",
+          "patch": "gggg"
+        },
+        "directDownloadURL": "https://www.dropbox.com/s/rnzm1m8l8ik8a6l/Nes%27s%20SAW.zip?dl\u003d1",
+        "changelogURL": null
+      }
+    },
+    "wisp_NeutrinoDetectorMkII": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/wispborne/NeutrinoDetectorMkII/master/wisp_NeutrinoDetectorMkII.version",
+        "modNexusId": null,
+        "modThreadId": "21140",
+        "modVersion": {
+          "major": "1",
+          "minor": "4",
+          "patch": "1"
+        },
+        "directDownloadURL": "https://github.com/wispborne/NeutrinoDetectorMkII/releases/download/1.4.0/Neutrino-Detector-MkII-1.4.0.zip",
+        "changelogURL": null
+      }
+    },
+    "nexerelin": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Histidine91/Nexerelin/release/nexerelin.version",
+        "modNexusId": "28",
+        "modThreadId": "9175",
+        "modVersion": {
+          "major": "0",
+          "minor": "11",
+          "patch": "0b"
+        },
+        "directDownloadURL": "https://github.com/Histidine91/Nexerelin/releases/download/v0.11.0b/Nexerelin_0.11.0b.zip",
+        "changelogURL": "https://raw.githubusercontent.com/Histidine91/Nexerelin/release/changelog.txt"
+      }
+    },
+    "wisp_perseanchronicles": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/davidwhitman/stories/master/wisp_perseanchronicles.version",
+        "modNexusId": null,
+        "modThreadId": "19830",
+        "modVersion": {
+          "major": "3",
+          "minor": "0",
+          "patch": "6"
+        },
+        "directDownloadURL": "https://github.com/wispborne/stories/releases/download/3.0.6/Persean-Chronicles-3.0.6.zip",
+        "changelogURL": "https://raw.githubusercontent.com/wispborne/stories/3.0.6/changelog.md"
+      }
+    },
+    "planet_search": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://github.com/andylizi/starsector-planet-search/raw/master/planetsearch.version",
+        "modNexusId": null,
+        "modThreadId": "23229",
+        "modVersion": {
+          "major": "1",
+          "minor": "2",
+          "patch": "1"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "Polaris_Prime": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Scarlet-MagicianX26/Polaris_Prime_EN/master/polaris_prime.version",
+        "modNexusId": null,
+        "modThreadId": "17822",
+        "modVersion": {
+          "major": "0",
+          "minor": "2",
+          "patch": "4"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "mayu_remnantpad": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/CremeDeFramboise/VersionChecker/main/remnantpad.version",
+        "modNexusId": null,
+        "modThreadId": null,
+        "modVersion": {
+          "major": "1",
+          "minor": "1",
+          "patch": "a"
+        },
+        "directDownloadURL": "https://github.com/CremeDeFramboise/RemnantPad/releases/download/v1.1a/RemnantPad.zip",
+        "changelogURL": null
+      }
+    },
+    "roider": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/SafariJohn/Roider-Union/main/RoiderUnion.version",
+        "modNexusId": null,
+        "modThreadId": "9547",
+        "modVersion": {
+          "major": "1",
+          "minor": "4",
+          "patch": "5"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "mayu_sigmatechpad": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/CremeDeFramboise/VersionChecker/main/sigmatechpad.version",
+        "modNexusId": null,
+        "modThreadId": null,
+        "modVersion": {
+          "major": "1",
+          "minor": "0",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "tahlan_scalartech": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/niatahl/tahlan-scalartech/master/scalartech.version",
+        "modNexusId": null,
+        "modThreadId": "18845",
+        "modVersion": {
+          "major": "0",
+          "minor": "9",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "scan_those_gates": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/AEROassault/ScanThoseGates/master/ScanThoseGates.version",
+        "modNexusId": null,
+        "modThreadId": "24651",
+        "modVersion": {
+          "major": "1",
+          "minor": "5",
+          "patch": "5"
+        },
+        "directDownloadURL": "https://github.com/AEROassault/ScanThoseGates/releases/latest/download/ScanThoseGates.zip",
+        "changelogURL": null
+      }
+    },
+    "ShipCatalogVariantEditor": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/RustyCabbage/ShipCatalogueVariantEditor/main/scve.version",
+        "modNexusId": "",
+        "modThreadId": "21591",
+        "modVersion": {
+          "major": "1",
+          "minor": "8",
+          "patch": "2"
+        },
+        "directDownloadURL": "https://github.com/RustyCabbage/ShipCatalogueVariantEditor/releases/download/v1.8.2/SCVE-v1.8.2.zip",
+        "changelogURL": "https://raw.githubusercontent.com/RustyCabbage/ShipCatalogueVariantEditor/main/changelog.txt"
+      }
+    },
+    "SCY": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/gv2fnntn9i03p5a/SCY.version?dl\u003d1",
+        "modNexusId": "17",
+        "modThreadId": "8010",
+        "modVersion": {
+          "major": "1",
+          "minor": "6",
+          "patch": "6rc3"
+        },
+        "directDownloadURL": "https://www.patreon.com/file?h\u003d76913714\u0026i\u003d13444351",
+        "changelogURL": null
+      }
+    },
+    "secretsofthefrontieralt": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://github.com/InventRaccoon/secrets-of-the-frontier/blob/b802b02039c1ca2a393b25d62e1840d16b506ae6/frontiersecrets.version?raw\u003dtrue",
+        "modNexusId": null,
+        "modThreadId": "15820",
+        "modVersion": {
+          "major": "0",
+          "minor": "11",
+          "patch": "1"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "secretsofthefrontier": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://github.com/InventRaccoon/secrets-of-the-frontier/blob/main/secretsofthefrontier.version?raw\u003dtrue",
+        "modNexusId": null,
+        "modThreadId": "15820",
+        "modVersion": {
+          "major": "0",
+          "minor": "13",
+          "patch": "2"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "SEEKER": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/11sffqbg63zkxyx/SEEKER.version?dl\u003d1",
+        "modNexusId": "50",
+        "modThreadId": "19414",
+        "modVersion": {
+          "major": "0",
+          "minor": "5",
+          "patch": "3rc1"
+        },
+        "directDownloadURL": "https://www.patreon.com/file?h\u003d79266950\u0026i\u003d13232671",
+        "changelogURL": null
+      }
+    },
+    "shadow_ships": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/MShadowy/shadowyards/master/ms_sra.version",
+        "modNexusId": null,
+        "modThreadId": "3491",
+        "modVersion": {
+          "major": "0",
+          "minor": "9",
+          "patch": "5-rc4"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "PT_ShipDirectionMarker": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/PureTilt/ShipDirectionMarker/master/ShipDirectionMarker/PureTilt_ShipDirectionMarker.version",
+        "modNexusId": null,
+        "modThreadId": "18994",
+        "modVersion": {
+          "major": "1",
+          "minor": "3",
+          "patch": "1"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "swp": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.sc2mafia.com/Starsector/version/swp.version",
+        "modNexusId": null,
+        "modThreadId": "11018",
+        "modVersion": {
+          "major": "1",
+          "minor": "14",
+          "patch": "0"
+        },
+        "directDownloadURL": "https://bitbucket.org/modmafia/ship-weapon-pack/downloads/Ship_and_Weapon_Pack_1.14.0.7z",
+        "changelogURL": null
+      }
+    },
+    "speedUp": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.sc2mafia.com/Starsector/version/speedUp.version",
+        "modNexusId": null,
+        "modThreadId": "13394",
+        "modVersion": {
+          "major": "1",
+          "minor": "0",
+          "patch": "0"
+        },
+        "directDownloadURL": "https://bitbucket.org/DarkRevenant/speedup/downloads/SpeedUp_1.0.0.7z",
+        "changelogURL": null
+      }
+    },
+    "sun_starship_legends": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/NateNBJ/StarshipLegends/master/sun_sl.version",
+        "modNexusId": null,
+        "modThreadId": "15321",
+        "modVersion": {
+          "major": "2",
+          "minor": "3",
+          "patch": "0"
+        },
+        "directDownloadURL": "https://github.com/NateNBJ/StarshipLegends/releases/latest/download/Starship.Legends.zip",
+        "changelogURL": null
+      }
+    },
+    "stelnet": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/jaghaimo/stelnet/master/assets/stelnet.version",
+        "modNexusId": null,
+        "modThreadId": "20836",
+        "modVersion": {
+          "major": "3",
+          "minor": "1",
+          "patch": "3"
+        },
+        "directDownloadURL": "https://github.com/jaghaimo/stelnet/releases/download/3.1.3/stelnet-3.1.3.zip",
+        "changelogURL": "https://raw.githubusercontent.com/jaghaimo/stelnet/3.1.3/changelog.txt"
+      }
+    },
+    "alcoholism": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/SirHartley/Substance.Abuse/master/alcohol.version",
+        "modNexusId": null,
+        "modThreadId": "24378",
+        "modVersion": {
+          "major": "1",
+          "minor": "0",
+          "patch": "j"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "superweapons": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://drive.google.com/uc?id\u003d1dbx-oOyFxy6l2ECLHqNtWg5kBW3lXBo7\u0026export\u003ddownload",
+        "modNexusId": null,
+        "modThreadId": "22115",
+        "modVersion": {
+          "major": "2",
+          "minor": "5b,",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "timid_supply_forging": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/TechpriestEnginseer/solid-winner3/master/supplyforging.version",
+        "modNexusId": null,
+        "modThreadId": "17503",
+        "modVersion": {
+          "major": "1",
+          "minor": "5",
+          "patch": null
+        },
+        "directDownloadURL": "https://github.com/TechpriestEnginseer/solid-winner3/releases/download/1.5/Supply.Forging.zip",
+        "changelogURL": null
+      }
+    },
+    "Sylphon_RnD": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/niatahl/sylphon/master/sylphon.version",
+        "modNexusId": null,
+        "modThreadId": "13524",
+        "modVersion": {
+          "major": "1",
+          "minor": "0",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "tahlan": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/niatahl/tahlan-shipworks/master/tahlan.version",
+        "modNexusId": null,
+        "modThreadId": "14935",
+        "modVersion": {
+          "major": "1",
+          "minor": "2",
+          "patch": "4"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "transfer_all_items": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/MaiconMichel/StarsectorTransferAllItemsMod/master/modfiles/transfer_all_items.version",
+        "modNexusId": null,
+        "modThreadId": "17210",
+        "modVersion": {
+          "major": "1",
+          "minor": "2",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "transpoffder": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/jaghaimo/transpoffder/master/assets/transpoffder.version",
+        "modNexusId": null,
+        "modThreadId": "23545",
+        "modVersion": {
+          "major": "1",
+          "minor": "2",
+          "patch": "2"
+        },
+        "directDownloadURL": "https://github.com/jaghaimo/transpoffder/releases/download/1.2.2/transpoffder-1.2.2.zip",
+        "changelogURL": null
+      }
+    },
+    "wisp_orbital-parade": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/davidwhitman/trophy-planet/master/wisp_orbital-parade.version",
+        "modNexusId": null,
+        "modThreadId": "21252",
+        "modVersion": {
+          "major": "0",
+          "minor": "0",
+          "patch": "4-alpha"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "underworld": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.sc2mafia.com/Starsector/version/underworld.version",
+        "modNexusId": null,
+        "modThreadId": "11002",
+        "modVersion": {
+          "major": "1",
+          "minor": "8",
+          "patch": "1"
+        },
+        "directDownloadURL": "https://bitbucket.org/modmafia/underworld/downloads/Underworld_1.8.1.7z",
+        "changelogURL": null
+      }
+    },
+    "uaf": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1BMaG_pWMOZRX7Wddry_Ns-oQD5iYKnQF",
+        "modNexusId": null,
+        "modThreadId": "12709",
+        "modVersion": {
+          "major": "0",
+          "minor": "7",
+          "patch": "3c,"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "US": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/ja47133y5a37cxl/US.version?dl\u003d1",
+        "modNexusId": "14",
+        "modThreadId": "12041",
+        "modVersion": {
+          "major": "1",
+          "minor": "0",
+          "patch": "0rc2"
+        },
+        "directDownloadURL": "https://www.patreon.com/file?h\u003d80147964\u0026i\u003d13443583",
+        "changelogURL": null
+      }
+    },
+    "ungp": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/TruthOriginem/UNGP/master/UNGP.version",
+        "modNexusId": null,
+        "modThreadId": "16680",
+        "modVersion": {
+          "major": "2",
+          "minor": "2",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "URW": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/4jdwhe8uirjr9ny/URW.version?dl\u003d1",
+        "modNexusId": "11",
+        "modThreadId": "9446",
+        "modVersion": {
+          "major": "1",
+          "minor": "5",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "vayrasector": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Vayraa/vayrasector/master/vayrasector.version",
+        "modNexusId": null,
+        "modThreadId": "16058",
+        "modVersion": {
+          "major": "3",
+          "minor": "2",
+          "patch": "1"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "vic": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": null,
+        "modNexusId": null,
+        "modThreadId": null,
+        "modVersion": null,
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "whichmod": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/theDragn/whichmod/master/whichmod.version",
+        "modNexusId": null,
+        "modThreadId": "22367",
+        "modVersion": {
+          "major": "1",
+          "minor": "2",
+          "patch": "2"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "wisp_planets": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": null,
+        "modNexusId": null,
+        "modThreadId": null,
+        "modVersion": null,
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "ash": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/AudaxLudos/aptly-simple-hullmods/main/ASH.version",
+        "modNexusId": null,
+        "modThreadId": "24550",
+        "modVersion": {
+          "major": "1",
+          "minor": "3",
+          "patch": "2"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "better_deserving_smods": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/JackieModMod/Better-Deserved-SMods/master/Bettersmods.version",
+        "modNexusId": null,
+        "modThreadId": "22670",
+        "modVersion": {
+          "major": "1",
+          "minor": "6",
+          "patch": "4"
+        },
+        "directDownloadURL": "https://github.com/JackieModMod/Better-Deserved-SMods/releases/download/1.64/Better.Deserved.S-Mods.zip",
+        "changelogURL": null
+      }
+    },
+    "better_variants": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/itBeABruhMoment/BetterVariants/master/BetterVariants.version",
+        "modNexusId": null,
+        "modThreadId": "24237",
+        "modVersion": {
+          "major": "1",
+          "minor": "3",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "bb_plus": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/CremeDeFramboise/VersionChecker/main/bladebreaker-plus.version",
+        "modNexusId": null,
+        "modThreadId": null,
+        "modVersion": {
+          "major": "1",
+          "minor": "2",
+          "patch": "c"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "bluefriendballs": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/SteelSirokos/Molecular-Replicator/main/bluefriendballs.version",
+        "modNexusId": null,
+        "modThreadId": "25695",
+        "modVersion": {
+          "major": "1",
+          "minor": "0",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "combatactivators": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/scardwell15/combatactivators/main/combatactivators.version",
+        "modNexusId": null,
+        "modThreadId": "26410",
+        "modVersion": {
+          "major": "1",
+          "minor": "1",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "hte": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": null,
+        "modNexusId": null,
+        "modThreadId": null,
+        "modVersion": null,
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "assortment_of_things": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/Lukas22041/Random-Assortment-of-Things/main/RandomAssortmentOfThings.version",
+        "modNexusId": null,
+        "modThreadId": "26260",
+        "modVersion": {
+          "major": "1",
+          "minor": "4",
+          "patch": "2"
+        },
+        "directDownloadURL": "https://github.com/Lukas22041/Random-Assortment-of-Things/releases/latest/download/Random-Assortment-of-Things.zip",
+        "changelogURL": "https://raw.githubusercontent.com/Lukas22041/Random-Assortment-of-Things/main/changelog.txt"
+      }
+    },
+    "RealisticCombat": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://www.dropbox.com/s/q5z5wry7bnxkvus/RealisticCombat.version?dl\u003d1",
+        "modNexusId": null,
+        "modThreadId": "24855",
+        "modVersion": {
+          "major": "1",
+          "minor": "27",
+          "patch": "1"
+        },
+        "directDownloadURL": "https://www.dropbox.com/s/u1e3cpwiv9c0k2d/RealisticCombat.zip?dl\u003d1",
+        "changelogURL": null
+      }
+    },
+    "roguelitesector": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": null,
+        "modNexusId": null,
+        "modThreadId": null,
+        "modVersion": null,
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    },
+    "variants_lib": {
+      "lastLookupTimestamp": 1689564509237,
+      "info": {
+        "masterVersionFile": "https://raw.githubusercontent.com/itBeABruhMoment/VariantsLib/master/variants_lib.version",
+        "modNexusId": null,
+        "modThreadId": "24237",
+        "modVersion": {
+          "major": "0",
+          "minor": "4",
+          "patch": "0"
+        },
+        "directDownloadURL": null,
+        "changelogURL": null
+      }
+    }
+  }
+}

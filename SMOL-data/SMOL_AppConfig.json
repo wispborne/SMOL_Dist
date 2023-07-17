@@ -1,0 +1,232 @@
+{
+  "userProfile": {
+    "id": 0.0,
+    "username": "default",
+    "activeModProfileId": "f09d587c-b96a-4af6-80f2-7b4a9bab584e",
+    "versionCheckerIntervalMillis": 300000.0,
+    "modProfiles": [
+      {
+        "id": "f09d587c-b96a-4af6-80f2-7b4a9bab584e",
+        "name": "default",
+        "description": "Default profile",
+        "sortOrder": 0.0,
+        "enabledModVariants": [
+          {
+            "modId": "combatactivators",
+            "modName": "Combat Activators",
+            "smolVariantId": "combat-1.0.2-1406693062",
+            "version": {
+              "raw": "1.0.2",
+              "major": "1",
+              "minor": "0",
+              "patch": "2",
+              "build": null
+            }
+          },
+          {
+            "modId": "lw_console",
+            "modName": "Console Commands",
+            "smolVariantId": "lw_con-2021.4.10-1559603688",
+            "version": {
+              "raw": "2021.4.10",
+              "major": "2021",
+              "minor": "4",
+              "patch": "10",
+              "build": null
+            }
+          },
+          {
+            "modId": "istl_dassaultmikoyan",
+            "modName": "Dassault-Mikoyan Engineering",
+            "smolVariantId": "istl_d-1.6a-369591751",
+            "version": {
+              "raw": "1.6a",
+              "major": "1",
+              "minor": "6a",
+              "patch": "0",
+              "build": null
+            }
+          },
+          {
+            "modId": "devutils",
+            "modName": "DevUtils",
+            "smolVariantId": "devuti-1.5.2-431267585",
+            "version": {
+              "raw": "1.5.2",
+              "major": "1",
+              "minor": "5",
+              "patch": "2",
+              "build": null
+            }
+          },
+          {
+            "modId": "shaderLib",
+            "modName": "zz GraphicsLib",
+            "smolVariantId": "shader-1.6.1-1265083235",
+            "version": {
+              "raw": "1.6.1",
+              "major": "1",
+              "minor": "6",
+              "patch": "1",
+              "build": null
+            }
+          },
+          {
+            "modId": "lw_lazylib",
+            "modName": "LazyLib",
+            "smolVariantId": "lw_laz-2.7c-425855436",
+            "version": {
+              "raw": "2.7c",
+              "major": "2",
+              "minor": "7c",
+              "patch": "0",
+              "build": null
+            }
+          },
+          {
+            "modId": "lunalib",
+            "modName": "LunaLib",
+            "smolVariantId": "lunali-1.6.0-1002509805",
+            "version": {
+              "raw": "1.6.0",
+              "major": "1",
+              "minor": "6",
+              "patch": "0",
+              "build": null
+            }
+          },
+          {
+            "modId": "ObviousNeutron",
+            "modName": "Obvious Neutron",
+            "smolVariantId": "Obviou-0.0.1-1874928034",
+            "version": {
+              "raw": "0.0.1",
+              "major": "0",
+              "minor": "0",
+              "patch": "1",
+              "build": null
+            }
+          },
+          {
+            "modId": "assortment_of_things",
+            "modName": "Random Assortment of Things",
+            "smolVariantId": "assort-1.3.3-1795274080",
+            "version": {
+              "raw": "1.3.3",
+              "major": "1",
+              "minor": "3",
+              "patch": "3",
+              "build": null
+            }
+          },
+          {
+            "modId": "ShipCatalogVariantEditor",
+            "modName": "~Ship Catalogue / Variant Editor",
+            "smolVariantId": "ShipCa-1.7.0-1257735208",
+            "version": {
+              "raw": "1.7.0",
+              "major": "1",
+              "minor": "7",
+              "patch": "0",
+              "build": null
+            }
+          },
+          {
+            "modId": "secretsofthefrontier",
+            "modName": "Secrets of the Frontier",
+            "smolVariantId": "secret-0.13.1-839332928",
+            "version": {
+              "raw": "0.13.1",
+              "major": "0",
+              "minor": "13",
+              "patch": "1",
+              "build": null
+            }
+          },
+          {
+            "modId": "speedUp",
+            "modName": "SpeedUp",
+            "smolVariantId": "speedU-0.7.2-2085438404",
+            "version": {
+              "raw": "0.7.2",
+              "major": "0",
+              "minor": "7",
+              "patch": "2",
+              "build": null
+            }
+          },
+          {
+            "modId": "balancepreview",
+            "modName": "Vanilla Balance Patch Preview",
+            "smolVariantId": "balanc-1.0-710814088",
+            "version": {
+              "raw": "1.0",
+              "major": "1",
+              "minor": "0",
+              "patch": "0",
+              "build": null
+            }
+          }
+        ],
+        "dateCreated": null,
+        "dateModified": "2023-07-16T20:28:27.034734500-07:00[America/Los_Angeles]"
+      }
+    ],
+    "profileVersion": 0.0,
+    "theme": "Starfarer",
+    "favoriteMods": [],
+    "modGridPrefs": {
+      "sortField": null,
+      "isSortDescending": true,
+      "columnSettings": {
+        "Favorites": {
+          "position": 0.0,
+          "isVisible": true
+        },
+        "ChangeVariantButton": {
+          "position": 1.0,
+          "isVisible": true
+        },
+        "Name": {
+          "position": 2.0,
+          "isVisible": true
+        },
+        "Author": {
+          "position": 3.0,
+          "isVisible": true
+        },
+        "Version": {
+          "position": 4.0,
+          "isVisible": true
+        },
+        "VramImpact": {
+          "position": 5.0,
+          "isVisible": true
+        },
+        "Icons": {
+          "position": 6.0,
+          "isVisible": true
+        },
+        "GameVersion": {
+          "position": 7.0,
+          "isVisible": true
+        },
+        "Category": {
+          "position": 8.0,
+          "isVisible": true
+        }
+      },
+      "groupingSetting": {
+        "grouping": "EnabledState",
+        "isSortDescending": false
+      }
+    },
+    "showGameLauncherWarning": true,
+    "launchButtonAction": "OpenFolder",
+    "useOrbitronNameFont": false,
+    "warnAboutOneClickUpdates": true,
+    "removedTipHashcodes": []
+  },
+  "gamePath": "C:\\Program Files (x86)\\Fractal Softworks\\Starsector-0.95.1-RC6",
+  "updateChannel": "Test"
+}
